@@ -1,19 +1,20 @@
 const portfolioData = {
     skills: [
-        { name: "HTML", category: "frontend", icon: "fab fa-html5", level: 80, color: "#e34f26", emoji: "🌐" },
+        { name: "HTML", category: "frontend", icon: "fab fa-html5", level: 100, color: "#e34f26", emoji: "🌐" },
         { name: "CSS", category: "frontend", icon: "fab fa-css3-alt", level: 80, color: "#1572b6", emoji: "🎨" },
-        { name: "JavaScript", category: "frontend", icon: "fab fa-js-square", level: 80, color: "#f7df1e", emoji: "📜" },
+        { name: "JavaScript", category: "frontend", icon: "fab fa-js-square", level: 85, color: "#f7df1e", emoji: "📜" },
         { name: "React", category: "frontend", icon: "fab fa-react", level: 80, color: "#61dafb", emoji: "⚛️" },
         { name: "Tailwind CSS", category: "frontend", icon: "fas fa-paint-brush", level: 80, color: "#06b6d4", emoji: "🌬️" },
         { name: "Node.js", category: "backend", icon: "fab fa-node-js", level: 80, color: "#339933", emoji: "🟢" },
         { name: "Python", category: "backend", icon: "fab fa-python", level: 80, color: "#3776ab", emoji: "🐍" },
-        { name: "MySQL", category: "backend", icon: "fas fa-database", level: 60, color: "#4479a1", emoji: "🐬" },
+        { name: "MySQL", category: "backend", icon: "fas fa-database", level: 80, color: "#4479a1", emoji: "🐬" },
         { name: "PHP", category: "backend", icon: "fab fa-php", level: 80, color: "#777bb4", emoji: "🐘" },
-        { name: "Git", category: "tools", icon: "fab fa-git-alt", level: 60, color: "#f05032", emoji: "🔄" },
+        { name: "Git", category: "tools", icon: "fab fa-git-alt", level: 80, color: "#f05032", emoji: "🔄" },
         { name: "GitHub", category: "tools", icon: "fab fa-github", level: 80, color: "#181717", emoji: "🐙" },
         { name: "VS Code", category: "tools", icon: "fas fa-code", level: 100, color: "#007acc", emoji: "📝" },
         { name: "Figma", category: "tools", icon: "fab fa-figma", level: 80, color: "#f24e1e", emoji: "🎨" },
-        { name: "React Native", category: "mobile", icon: "fab fa-react", level: 60, color: "#61dafb", emoji: "📱" }
+        { name: "React Native", category: "mobile", icon: "fab fa-react", level: 80, color: "#61dafb", emoji: "📱" },
+        { name: "Flutter", category: "mobile", icon: "fas fa-mobile-alt", level: 80, color: "#0375d1", emoji: "🚀" }
     ],
   projects: [
     {
